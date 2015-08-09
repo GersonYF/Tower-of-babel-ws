@@ -1,1 +1,3 @@
 # Tower-of-babel-ws
+
+ES6 Features Workshop exercises...
